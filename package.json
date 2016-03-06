@@ -1,0 +1,14 @@
+{
+  "name": "programming-exercise",
+  "version": "0.0.1",
+  "description": "simple user api",
+  "dependencies": {
+    "bluebird": "x",
+    "vogels": "2.2",
+    "joi": "5.x.x",
+    "restify": "x",
+    "util": "x",
+    "lodash": "x"
+  }
+
+}
